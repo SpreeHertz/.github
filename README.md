@@ -1,2 +1,2 @@
 # .github
-GitHub repository files
+Helpful example files for other GitHub repositories.
