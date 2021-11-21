@@ -1,2 +1,2 @@
 # .github
-GitHub repository common files
+GitHub repository files
